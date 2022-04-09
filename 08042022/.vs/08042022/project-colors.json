@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cc450c3-e171-44c6-9bad-c8ff4795764d": {
+      "ProjectGuid": "6cc450c3-e171-44c6-9bad-c8ff4795764d",
+      "DisplayName": "DelegateLesson",
+      "ColorIndex": 0
+    },
+    "7f3e10c9-f3b0-42f8-93b6-83a6c30f97f4": {
+      "ProjectGuid": "7f3e10c9-f3b0-42f8-93b6-83a6c30f97f4",
+      "DisplayName": "Task",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
